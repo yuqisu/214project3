@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Myapp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="email_address">email address</string>
+    <string name="register">register</string>
+    <string name="set_up_your_profile_picture">set up your profile picture</string>
+    <string name="name">name</string>
+    <string name="town">town</string>
+    <string name="birthday">birthday</string>
+    <string name="something_about_you">something about you</string>
+    <string name="set_up_your_reference">set up your reference</string>
+    <string name="s">S</string>
+    <string name="f">F</string>
+    <string name="t">T</string>
+    <string name="w">W</string>
+    <string name="m">M</string>
+    <string name="your_allergy">your allergy</string>
+    <string name="peanuts">Peanuts</string>
+    <string name="egg">Egg</string>
+    <string name="diary">Diary</string>
+    <string name="sea_food">Sea Food</string>
+    <string name="your_average_meal_expanse">your average meal Expanse</string>
+    <string name="lunch">lunch</string>
+    <string name="your_work_days">your work Days</string>
+    <string name="dinner">dinner</string>
+</resources>
